@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486785972850",
+    "firebase_url": "https://muskancarparking.firebaseio.com",
+    "project_id": "muskancarparking",
+    "storage_bucket": "muskancarparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486785972850:android:8a41e778a567d795",
+        "android_client_info": {
+          "package_name": "com.example.muskancarparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486785972850-ihb0nj1ps24g0iu9hn3907695g8tjscv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muskancarparking",
+            "certificate_hash": "890a538aaef9f65de15821d86484bb209a40590d"
+          }
+        },
+        {
+          "client_id": "486785972850-okgtlfdssrmcm0j1i3vbsakkrp59o5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHcpmPVD6lYy2Op_elP10UiJCmHC1QHAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486785972850-okgtlfdssrmcm0j1i3vbsakkrp59o5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Graphic Era Parking</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="backtologin">Already Signup? Login</string>
+    <string name="signup">New User? SignUp</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="age">Age (between 18 and 100)</string>
+
+    <string name="csit">CS/IT</string>
+    <string name="gate1">Gate 1</string>
+    <string name="gate2">Gate 2</string>
+    <string name="hill">Hill</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="parking">Graphic Era Parking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="about">Graphic Era Parking Android App is a smart parking app where faculties, students, and visitors can book their slot for parking, which will save their time.
+    </string>
+    <string name="version">Version 1.0</string>
+    <string name="developed">Developed By</string>
+    <string name="shubham">Shubham Agarwal</string>
+    <string name="Dept">Dept. of Computer Application</string>
+    <string name="batch">2016-19 Batch</string>
+    <string name="graphicera">Graphic Era Deemed to be University</string>
+</resources>
